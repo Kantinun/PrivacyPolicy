@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(205, 232, 255);
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
